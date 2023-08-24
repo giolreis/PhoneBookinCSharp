@@ -4,17 +4,16 @@ Bem-vindo à **Agenda Eletrônica** desenvolvida por mim usando a plataforma Win
 
 ## Sobre a Agenda Eletrônica
 
-A **Agenda Eletrônica** é uma aplicação de desktop que oferece uma maneira conveniente de gerenciar sua vida agitada. Com uma interface intuitiva e recursos práticos, a aplicação busca tornar o planejamento e a organização mais simples e eficazes.
+A **Agenda Eletrônica** é uma aplicação de desktop que oferece uma maneira conveniente de gerenciar seus contatos.
 
 ## Funcionalidades Principais
 
 - **Gerenciamento de Contatos:** Mantenha uma lista de contatos com informações essenciais, como nomes, números de telefone e endereços de email.
-- **Pesquisa Rápida:** Localize rapidamente compromissos, contatos ou tarefas usando a funcionalidade de pesquisa.
-
-
+- **Pesquisa Rápida:** Localize rapidamente contatos.
+- 
 ## Como Usar
 
-1. **Gerenciamento de Contatos:** Acesse a seção de contatos para adicionar, editar ou excluir informações de contato.
+**Gerenciamento de Contatos:** Acesse a seção de contatos para adicionar, editar ou excluir informações de contato.
 
 ## Contribuição
 
