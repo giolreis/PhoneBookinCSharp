@@ -1,6 +1,6 @@
 # Agenda Eletrônica em C# WinForms
 
-Bem-vindo à **Agenda Eletrônica** desenvolvida por mim usando a plataforma Windows Forms (WinForms) em C#. Esta aplicação foi projetada para ajudar você a organizar seus compromissos, contatos e tarefas de forma eficiente.
+Bem-vindo à **Agenda Eletrônica** desenvolvida por mim usando a plataforma Windows Forms (WinForms) em C#. Esta aplicação foi projetada para ajudar você a organizar seus contatos de forma eficiente.
 
 ## Sobre a Agenda Eletrônica
 
@@ -10,7 +10,7 @@ A **Agenda Eletrônica** é uma aplicação de desktop que oferece uma maneira c
 
 - **Gerenciamento de Contatos:** Mantenha uma lista de contatos com informações essenciais, como nomes, números de telefone e endereços de email.
 - **Pesquisa Rápida:** Localize rapidamente contatos.
-- 
+  
 ## Como Usar
 
 **Gerenciamento de Contatos:** Acesse a seção de contatos para adicionar, editar ou excluir informações de contato.
